@@ -1,4 +1,4 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'vue';
+import datePick from './Datepick.vue';
 
-createApp(App).mount('#app')
+createApp(datePick).mount('#datePicker');
